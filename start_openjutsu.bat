@@ -49,3 +49,4 @@ exit /b 0
 echo Setup failed, see the messages above.
 pause
 exit /b 1
+
